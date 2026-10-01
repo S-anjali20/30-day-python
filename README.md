@@ -22,4 +22,4 @@ The journey starts with core Python fundamentals and gradually progresses toward
 
 | Day | Project | Concepts Covered | Status |
 | :---: | :--- | :--- | :---: |
-| **01** | [Number Guessing Game](./day-01/) | User input, loops, conditionals, `random` module | ✅ |
+| **01** | [Number Guessing Game](./day-01/) | Loops, Conditionals, Colorama | ✅ |

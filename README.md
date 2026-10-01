@@ -1,19 +1,25 @@
-🐍 30 Days of Python — 30 Projects
+# 🐍 30 Days of Python — 30 Projects
 
-A 30-day challenge to improve my Python programming skills by building one project every day.
+A 30-day challenge to strengthen my Python programming skills by building one practical project every single day. 
 
-The projects start with Python fundamentals and gradually progress toward APIs, automation, Flask, databases, authentication and larger applications.
+The journey starts with core Python fundamentals and gradually progresses toward APIs, automation, web development with Flask, databases, authentication, and full-stack applications.
 
-🎯 Goals
-Strengthen Python fundamentals
-Learn by building
-Practice problem-solving
-Explore APIs and backend development
-Build practical applications
-Improve GitHub consistency
-Document my learning journey# 30-day-python
-30 Days, 30 Python Projects challenge
+---
 
-📅 Projects
-Day	Project	Concepts
-01	Number Guessing Game	Python fundamentals
+## 🎯 Goals
+
+- 🧱 **Strengthen core fundamentals** and write idiomatic Python code.
+- 🛠️ **Learn by building** real-world tools, scripts, and applications.
+- 🧩 **Practice problem-solving** and logical thinking under daily constraints.
+- 🌐 **Explore backend tech** including REST APIs, databases, and Flask.
+- ⚡ **Build practical automation** scripts to solve daily tasks.
+- 📈 **Improve GitHub consistency** and maintain a daily commit streak.
+- 📝 **Document my learning journey** for long-term reference and tracking.
+
+---
+
+## 📅 Daily Projects Overview
+
+| Day | Project | Concepts Covered | Status |
+| :---: | :--- | :--- | :---: |
+| **01** | [Number Guessing Game](./day-01/) | User input, loops, conditionals, `random` module | ✅ |

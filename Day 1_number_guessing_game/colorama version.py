@@ -3,11 +3,6 @@ from colorama import Fore, Style, init
 
 # Initialize Colorama
 init(autoreset=True)
-
-
-# --------------------------------
-# Choose Difficulty
-# --------------------------------
 def choose_difficulty():
 
     while True:
@@ -34,10 +29,6 @@ def choose_difficulty():
         except ValueError:
             print(Fore.RED + "❌ Please enter a valid number.")
 
-
-# --------------------------------
-# Calculate Score
-# --------------------------------
 def calculate_score(attempts):
 
     if attempts == 1:
@@ -58,10 +49,6 @@ def calculate_score(attempts):
     else:
         return 10
 
-
-# --------------------------------
-# Play One Game
-# --------------------------------
 def play_game():
 
     max_number, max_attempts, multiplier = choose_difficulty()
@@ -95,9 +82,7 @@ def play_game():
 
         difference = abs(secret_number - guess)
 
-        # --------------------------------
-        # Correct Guess
-        # --------------------------------
+    
         if difference == 0:
 
             print(Fore.GREEN + "\n🎉 Correct! You guessed it!")
@@ -122,9 +107,7 @@ def play_game():
 
             return final_score, True
 
-        # --------------------------------
-        # Hot / Cold Feedback
-        # --------------------------------
+    
         if difference <= 5:
 
             print(
@@ -153,9 +136,6 @@ def play_game():
                 + "🥶 You are too far!"
             )
 
-        # --------------------------------
-        # Higher / Lower Hint
-        # --------------------------------
         if guess < secret_number:
 
             print(
@@ -177,10 +157,6 @@ def play_game():
             + f"❤️ Attempts remaining: {remaining}"
         )
 
-    # --------------------------------
-    # Game Over
-    # --------------------------------
-
     print(Fore.RED + "\n💔 Game Over!")
     print(
         Fore.YELLOW
@@ -190,9 +166,7 @@ def play_game():
     return 0, False
 
 
-# --------------------------------
-# Main Game
-# --------------------------------
+
 def main():
 
     print(Fore.CYAN + "\n" + "=" * 45)
@@ -213,9 +187,7 @@ def main():
         if won:
             games_won += 1
 
-        # --------------------------------
-        # Current Statistics
-        # --------------------------------
+        
 
         print(Fore.CYAN + "\n" + "-" * 45)
         print(Fore.GREEN + f"🏆 Total Score : {total_score}")
@@ -223,9 +195,7 @@ def main():
         print(Fore.GREEN + f"🥇 Games Won   : {games_won}")
         print(Fore.CYAN + "-" * 45)
 
-        # --------------------------------
-        # Play Again
-        # --------------------------------
+       
 
         while True:
 
@@ -266,14 +236,8 @@ def main():
 
             else:
 
-                print(
-                    Fore.RED
-                    + "❌ Please enter 'yes' or 'no'."
-                )
+                print(Fore.RED+ "❌ Please enter 'yes' or 'no'.")
 
 
-# --------------------------------
-# Start Game
-# --------------------------------
 if __name__ == "__main__":
     main()

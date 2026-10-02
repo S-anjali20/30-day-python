@@ -1,9 +1,4 @@
 import random
-
-
-# -------------------------------
-# Choose Difficulty
-# -------------------------------
 def choose_difficulty():
     while True:
         print("\nChoose your difficulty level:")
@@ -29,10 +24,6 @@ def choose_difficulty():
         except ValueError:
             print("❌ Please enter a valid number.")
 
-
-# -------------------------------
-# Calculate Score
-# -------------------------------
 def calculate_score(attempts):
     if attempts == 1:
         return 100
@@ -48,9 +39,6 @@ def calculate_score(attempts):
         return 10
 
 
-# -------------------------------
-# Play One Game
-# -------------------------------
 def play_game():
     max_number, max_attempts, multiplier = choose_difficulty()
 
@@ -90,7 +78,6 @@ def play_game():
 
             return final_score, True
 
-        # Hot / Cold feedback
         if difference <= 5:
             print("🔥 You are very close!")
 
@@ -118,10 +105,6 @@ def play_game():
 
     return 0, False
 
-
-# -------------------------------
-# Main Game
-# -------------------------------
 def main():
 
     print("=" * 40)

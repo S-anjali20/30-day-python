@@ -25,3 +25,15 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **01** | [Number Guessing Game](./day-01/) | Loops, Conditionals, Colorama | ✅ |
 | **02** | [Smart Calculator](./day-02/) | frankfurter api, Exception handling, rich | ✅ |
 | **03** | [To Do List](./day-03/) |  File Handling, questionary | ✅ |
+
+
+
+---
+
+## 👩‍💻 Author
+
+**Anjali Singh**  
+*B.Tech Student*  
+- **GitHub:** [https://github.com/S-anjali20](https://github.com/S-anjali20)
+
+---

@@ -23,3 +23,5 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | Day | Project | Concepts Covered | Status |
 | :---: | :--- | :--- | :---: |
 | **01** | [Number Guessing Game](./day-01/) | Loops, Conditionals, Colorama | ✅ |
+| **02** | [Smart Calculator](./day-02/) | frankfurter api, Exception handling, rich | ✅ |
+| **03** | [To Do List](./day-03/) |  File Handling, questionary | ✅ |

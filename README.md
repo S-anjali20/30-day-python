@@ -26,6 +26,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **02** | [Smart Calculator](./day-02/) | frankfurter api, Exception handling, rich | ✅ |
 | **03** | [To Do List](./day-03/) |  File Handling, questionary | ✅ |
 | **04** | [Weather Dashboard](./day-04/) |  APIs customtkinter | ✅ |
+| **05** | [Password Analyzer](./day-05/) |  Regular Expressions | ✅ |
 
 
 

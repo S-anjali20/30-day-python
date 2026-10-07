@@ -28,6 +28,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **04** | [Weather Dashboard](./day-04/) |  APIs customtkinter | ✅ |
 | **05** | [Password Analyzer](./day-05/) |  Regular Expressions | ✅ |
 | **06** | [AI Sentiment Analyzer](./day-06/) |  transformers, torch | ✅ |
+| **07** | [AI Chatbot](./day-07/) |  OpenAI API, LLM | ✅ |
 
 
 

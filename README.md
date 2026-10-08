@@ -29,6 +29,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **05** | [Password Analyzer](./day-05/) |  Regular Expressions | ✅ |
 | **06** | [AI Sentiment Analyzer](./day-06/) |  transformers, torch | ✅ |
 | **07** | [AI Chatbot](./day-07/) |  OpenAI API, LLM | ✅ |
+| **08** | [AI Study Assistant](./day-08/) |  OpenAI API, LLM, Typer | ✅ |
 
 
 

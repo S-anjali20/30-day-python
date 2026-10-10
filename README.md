@@ -25,12 +25,12 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **01** | [Number Guessing Game](./day-01/) | Loops, Conditionals, Colorama | ✅ |
 | **02** | [Smart Calculator](./day-02/) | frankfurter api, Exception handling, rich | ✅ |
 | **03** | [To Do List](./day-03/) |  File Handling, questionary | ✅ |
-| **04** | [Weather Dashboard](./day-04/) |  APIs customtkinter | ✅ |
+| **04** | [Weather Dashboard](./day-04/) |  APIs, CustomTkinter | ✅ |
 | **05** | [Password Analyzer](./day-05/) |  Regular Expressions | ✅ |
 | **06** | [AI Sentiment Analyzer](./day-06/) |  transformers, torch | ✅ |
 | **07** | [AI Chatbot](./day-07/) |  OpenAI API, LLM | ✅ |
 | **08** | [AI Study Assistant](./day-08/) |  OpenAI API, LLM, Typer | ✅ |
-
+| **09** | [AI REsume Analyzer](./day-09/) |   Groq, pypdf, dotenv,CustomTkinter | ✅ |
 
 
 ---

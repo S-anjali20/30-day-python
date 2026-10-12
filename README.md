@@ -30,7 +30,8 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **06** | [AI Sentiment Analyzer](./day-06/) |  transformers, torch | ✅ |
 | **07** | [AI Chatbot](./day-07/) |  OpenAI API, LLM | ✅ |
 | **08** | [AI Study Assistant](./day-08/) |  OpenAI API, LLM, Typer | ✅ |
-| **09** | [AI REsume Analyzer](./day-09/) |   Groq, pypdf, dotenv,CustomTkinter | ✅ |
+| **09** | [AI REsume Analyzer](./day-09/) |   Groq, pypdf, dotenv, CustomTkinter | ✅ |
+| **10** | [AI Research Paper Analyzer](./day-10/) |   Ollama Qwen 3.5 4B, pypdf, Threading | ✅ |
 
 
 ---

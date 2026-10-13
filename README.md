@@ -33,7 +33,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **09** | [AI REsume Analyzer](./day-09/) |   Groq, pypdf, dotenv, CustomTkinter | ✅ |
 | **10** | [AI Research Paper Analyzer](./day-10/) |   Ollama Qwen 3.5 4B, pypdf, Threading | ✅ |
 | **11** | [Mind Maze](./day-11/) |   pygame | ✅ |
-| **12** | [Star Catcher](./day-12/) |   pygame | ✅ |
+| **12** | [Star Catcher](./day-12/) |   pygame, JSON | ✅ |
 
 
 ---

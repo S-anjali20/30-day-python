@@ -35,6 +35,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **11** | [Mind Maze](./day-11/) |   pygame | ✅ |
 | **12** | [Star Catcher](./day-12/) |   pygame, JSON | ✅ |
 | **13** | [Sudoku](./day-13/) |  pygame, Backtracking Algorithm| ✅ |
+| **14** | [Typing Speed Test](./day-12/) |   pygame, JSON | ✅ |
 
 
 ---

@@ -37,6 +37,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **13** | [Sudoku](./day-13/) |  pygame, Backtracking Algorithm| ✅ |
 | **14** | [Typing Speed Test](./day-14/) |   pygame, JSON | ✅ |
 | **15** | [Productivity Timer](./day-15/) |   CustomTkinter, SQLite | ✅ |
+| **16** | [Expense Tracker](./day-16/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
 
 
 ---

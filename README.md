@@ -38,6 +38,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **14** | [Typing Speed Test](./day-14/) |   pygame, JSON | ✅ |
 | **15** | [Productivity Timer](./day-15/) |   CustomTkinter, SQLite | ✅ |
 | **16** | [Expense Tracker](./day-16/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
+| **17** | [Smart File Organizer](./day-17/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
 
 
 ---

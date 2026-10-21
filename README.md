@@ -40,6 +40,8 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **16** | [Expense Tracker](./day-16/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
 | **17** | [Smart File Organizer](./day-17/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
 | **18** | [Wellness Tracker](./day-18/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
+| **19** | [Solar System Simulation](./day-19/) |   Pygame, | ✅ |
+| **20** | [CyberSecurity Learning and Threat Detection](./day-20/) |   CustomTkinter, hashlib, urllib.parse | ✅ |
 
 
 ---

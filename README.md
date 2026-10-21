@@ -51,5 +51,6 @@ The journey starts with core Python fundamentals and gradually progresses toward
 **Anjali Singh**  
 *B.Tech Student*  
 - **GitHub:** [https://github.com/S-anjali20](https://github.com/S-anjali20)
+- **LinkdeIn:** ([https://github.com/S-anjali20](https://www.linkedin.com/in/anjali-singh-765a80312))
 
 ---

@@ -42,7 +42,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **18** | [Wellness Tracker](./day-18/) |   CustomTkinter, SQLite, Matplotlib | ✅ |
 | **19** | [Solar System Simulation](./day-19/) |   Pygame, sys| ✅ |
 | **20** | [CyberSecurity Learning and Threat Detection](./day-20/) |   CustomTkinter, hashlib, urllib.parse | ✅ |
-
+| **21** | [Crypto price tracker](./day-21/) |   coingecko API, requests, plyer| ✅ |
 
 ---
 

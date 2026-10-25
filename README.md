@@ -44,6 +44,8 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **20** | [CyberSecurity Learning and Threat Detection](./day-20/) |   CustomTkinter, hashlib, urllib.parse | ✅ |
 | **21** | [Crypto price tracker](./day-21/) |   coingecko API, requests, plyer| ✅ |
 | **22** | [Real Time Flight Tracker](./day-22/) |   OpenSky Network REST API, requests, folium| ✅ |
+| **23** | [AI Voice Assistant](./day-23/) |   SpeechRecognition, Groq API, DuckDuckGo Search| ✅ |
+
 
 ---
 

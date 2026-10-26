@@ -45,6 +45,7 @@ The journey starts with core Python fundamentals and gradually progresses toward
 | **21** | [Crypto price tracker](./day-21/) |   coingecko API, requests, plyer| ✅ |
 | **22** | [Real Time Flight Tracker](./day-22/) |   OpenSky Network REST API, requests, folium| ✅ |
 | **23** | [AI Voice Assistant](./day-23/) |   SpeechRecognition, Groq API, DuckDuckGo Search| ✅ |
+| **24** | [Cybersecurity Simulation](./day-24/) |   Regular Expression, Customtkinter, SQLite| ✅ |
 
 
 ---
